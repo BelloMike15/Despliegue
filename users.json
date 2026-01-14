@@ -1,7 +1,12 @@
 [
-    {
-    "id": "1", 
+  {
+    "id": "1",
     "name": "Andres Cobena",
     "email": "pedro.cobena@uleam.edu.ec"
-    }
+  },
+  {
+    "id": "test-user-001",
+    "name": "Usuario Prueba",
+    "email": "test@correo.com"
+  }
 ]

@@ -4,7 +4,7 @@
     "description": "Mi aplicación Node.js",
     "main": "index.js",
     "scripts": {
-        "test": "jest"
+        "test": "node ./node_modules/jest/bin/jest.js"
     },
     "dependencies": {
         "express": "^4.22.1"
